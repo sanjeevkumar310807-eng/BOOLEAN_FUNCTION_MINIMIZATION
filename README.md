@@ -1,4 +1,4 @@
-<img width="1917" height="1076" alt="Screenshot 2025-10-08 210008" src="https://github.com/user-attachments/assets/522f1371-8a95-4325-882f-a4859a2e32e4" /># BOOLEAN_FUNCTION_MINIMIZATION
+BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
